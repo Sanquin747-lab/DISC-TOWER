@@ -1,0 +1,51 @@
+{
+  "1": {
+    "path": "covers/1.jpg",
+    "source": "https://en.wikipedia.org/wiki/In_the_Mood_for_Love",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/In_the_Mood_for_Love_movie.jpg/250px-In_the_Mood_for_Love_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  "2": {
+    "path": "covers/2.jpg",
+    "source": "https://en.wikipedia.org/wiki/Silent_Hill_2",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Silent_Hill_2.jpg/250px-Silent_Hill_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  "3": {
+    "path": "covers/3.png",
+    "source": "https://en.wikipedia.org/wiki/Blade_Runner",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Blade_Runner_%281982_poster%29.png/250px-Blade_Runner_%281982_poster%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  "4": {
+    "path": "covers/4.png",
+    "source": "https://en.wikipedia.org/wiki/OK_Computer",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Radioheadokcomputer.png/250px-Radioheadokcomputer.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  "5": {
+    "path": "covers/5.jpg",
+    "source": "https://en.wikipedia.org/wiki/Shadow_of_the_Colossus",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f8/Shadow_of_the_Colossus_%282005%29_cover.jpg/250px-Shadow_of_the_Colossus_%282005%29_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  "6": {
+    "path": "covers/6.jpg",
+    "source": "https://en.wikipedia.org/wiki/Stalker_(1979_film)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d4/Stalker_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled"
+  },
+  "8": {
+    "path": "covers/8.jpg",
+    "source": "https://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/DaftPunkDiscovery.jpg/250px-DaftPunkDiscovery.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  "9": {
+    "path": "covers/9.png",
+    "source": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/11/2001_A_Space_Odyssey_%281968%29.png/250px-2001_A_Space_Odyssey_%281968%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  "10": {
+    "path": "covers/10.jpg",
+    "source": "https://en.wikipedia.org/wiki/Disco_Elysium",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Disco_Elysium_Poster.jpeg/250px-Disco_Elysium_Poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  },
+  "0": {
+    "path": "reference.png",
+    "source": "用户提供的《Этажи》唱片封面"
+  }
+}
